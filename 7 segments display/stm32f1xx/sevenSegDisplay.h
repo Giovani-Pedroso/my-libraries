@@ -527,6 +527,5 @@ void sevenSegDisplayInit(){
             break;
 
     }
-
-
+}
 #endif
