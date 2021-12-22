@@ -1,3 +1,10 @@
+/*
+Create by Giovani Sant'Ana Pedroso
+Tested in STM32F103C8 (bluepill)
+Date: 21/Dez/2021
+Github: https://github.com/Giovani-Pedroso/Blue-Pill-a-new-Begining/blob/main/6-Libraries/display7segs.h
+*/
+
 #include "stm32f1xx.h"
 
 #ifndef _DISPLAY7SEGS_H
@@ -67,7 +74,7 @@ void sevenSegDisplayInit(){
     //       ----B9----
     //      |          |
     //      |          |
-    //      B4         B5
+    //      B7         B5
     //      |          |
     //      |          |
     //       ----B6----
